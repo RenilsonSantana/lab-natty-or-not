@@ -5,11 +5,12 @@ Um e-book gerado totalmente através de IA, conta uma história envolvente sobre
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
+- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criação da arte visual do e-book;
+- IA Generativa **[Amazon Q](https://aws.amazon.com/pt/q/)** para criação do website do e-book;
 - Ferramenta **Word** para edição.
 
 ## 🧐 Processo de Criação
-Utilizei o “ChatGPT” para criação do roteiro do e-book, “Leonardo.AI” para gerar a imagem da capa e “Word” para a montagem final do e-book
+Utilizei o “ChatGPT” para criação do roteiro do e-book, “Leonardo.AI” para gerar a imagem da capa, “Word” para a montagem final do e-book e “Amazon Q” para criação do website
 
 ## 🚀 Resultados
 É um e-book envolvente e educativo, que explorou temas de descobertas científicas, dilemas morais e o poder das escolhas
